@@ -1,4 +1,4 @@
- # generated with HiggsBounds version 4.3.1 on 24.07.2021 at 09:33
+ # generated with HiggsBounds version 4.3.1 on 28.08.2021 at 10:43
  # settings: LandH, effC
  #
  # column abbreviations
@@ -11,9 +11,9 @@
  #   ncomb      : number of Higgs bosons combined in most sensitive channel
  #
  # channel numbers used in this file
- #         277 : (p p)->h1 ->Z Z-> l l l l (low mass) where h1  is SM-like (CMS-PAS-HIG-13-002)
+ #         421 : (p p)->h1 /VBF/Wh1 /Zh1 /tth1 ->gamma gamma  ([hep-ex] arXiv:1407.6583)
  # (for full list of processes, see Key.dat)
  #
  #cols:  n           Mh(1)           Mh(2)           Mh(3)       Mhplus(1)  HBresult  chan    obsratio     ncomb
  #
-             1     123.597         482.467         490.049         479.555         1   277    0.475923         1
+             1     120.445         478.731         485.784         475.196         0   421     2.70313         1

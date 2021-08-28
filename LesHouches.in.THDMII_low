@@ -19,7 +19,7 @@ BLOCK MINPAR
    4   -4.154220E-02    # Lambda4Input
    5   -3.812720E-01    # Lambda5Input
    9   -8.511380E+04    # M12inputt
-   10   2.070100E+00    # TanBeta
+   10   2.005690E+00    # TanBeta
 
 BLOCK SPHENOINPUT
    1   -1              # error level
