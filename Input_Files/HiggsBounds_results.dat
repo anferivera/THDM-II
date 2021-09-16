@@ -1,4 +1,4 @@
- # generated with HiggsBounds version 5.3.2beta on 10.09.2021 at 18:57
+ # generated with HiggsBounds version 5.3.2beta on 16.09.2021 at 15:00
  # settings: LandH, effC
  #
  # column abbreviations
@@ -11,9 +11,9 @@
  #   ncomb      : number of Higgs bosons combined in most sensitive channel
  #
  # channel numbers used in this file
- #         796 :(pp)->h2->tautau, using -2ln(L) reconstruction  (CMS-HIG-PAS 17-020)
+ #         489 : (p p) -> h2  -> h h -> b b b b, where h lies around 125 (+- 10 GeV)  (CMS-PAS-HIG-14-013,arXiv:1503.04114 (CMS))
  # (for full list of processes, see Key.dat)
  #
  #cols:  n           Mh(1)           Mh(2)           Mh(3)       Mhplus(1)  HBresult  chan    obsratio     ncomb
  #
-             1     181.001         505.041         474.116         505.072         0   796     50.3349         2
+             1     124.769         439.772         444.602         435.643         1   489    0.886246         1
