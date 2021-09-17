@@ -13,12 +13,12 @@ BLOCK SMINPUTS
    7   1.776690E+00    # m_tau(pole)
 
 BLOCK MINPAR
-   1   1.348440E-01    # Lambda1Input
-   2   2.956350E-01    # Lambda2Input
-   3   4.177630E-02    # Lambda3Input
-   4   -8.409200E-02    # Lambda4Input
-   5   -3.442510E-01    # Lambda5Input
-   9   -6.918310E+04    # M12inputt
+   1   1.669300E-01    # Lambda1Input
+   2   3.044110E-01    # Lambda2Input
+   3   1.317500E-01    # Lambda3Input
+   4   -3.043700E-01    # Lambda4Input
+   5   -7.631870E-02    # Lambda5Input
+   9   -1.698240E+04    # M12inputt
    10   2.073210E+00    # TanBeta
 
 BLOCK SPHENOINPUT
